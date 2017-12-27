@@ -1,6 +1,4 @@
 # hello-world
 Just another repository
-Hi humans,
-Duminda here.
-I am interesting about Java.
-Have a fun.
+Hi there,
+I am Duminda
